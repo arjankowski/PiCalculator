@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'EulerCalculator'
-  spec.version      = '0.3.0'
+  spec.version      = '0.4.0'
   spec.summary      = 'Euler Calculator'
   spec.homepage     = 'https://github.com/arjankowski/PiCalculator'
   spec.license      = 'Apache License, Version 2.0'
