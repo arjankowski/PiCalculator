@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'PiCalculator'
-  spec.version      = '0.2.0'
+  spec.version      = '0.3.0'
   spec.summary      = 'Pi Calculator'
   spec.homepage     = 'https://github.com/arjankowski/PiCalculator'
   spec.license      = 'Apache License, Version 2.0'
